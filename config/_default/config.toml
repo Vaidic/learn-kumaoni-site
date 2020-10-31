@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "{{Kumaoni | कुमाँऊनी}}"
+title = "{{Learn Kumaoni | कुमाँऊनी सीखें}}"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
